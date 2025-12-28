@@ -16,7 +16,10 @@ To write a Python program that checks whether a given number is a **palindrome**
    - Else, print that it is not a palindrome.
 
 ## 🧾 Program
-Add code Here
+<img width="1220" height="504" alt="Screenshot 2025-12-28 125500" src="https://github.com/user-attachments/assets/4bf3d21b-76ab-44a6-9f02-76a48cc15cf9" />
+
 ## Output
+<img width="1181" height="243" alt="Screenshot 2025-12-28 125008" src="https://github.com/user-attachments/assets/54e3a70e-4b73-4727-b59e-08fbd90d7642" />
 
 ## Result
+Thus the program is successfully executed.
